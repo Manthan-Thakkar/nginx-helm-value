@@ -1,4 +1,4 @@
-nameOverride: "test1"
+nameOverride: "test2"
 ## @param fullnameOverride String to fully override nginx.fullname template
 ##
-fullnameOverride: "test1"
+fullnameOverride: "test2"
